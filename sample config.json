@@ -1,0 +1,11 @@
+{
+    "client_id": "",
+    "client_secret": "",
+    "refresh_token": "",
+    "realm_id": "",
+    "redirect_uri": "http://localhost",
+    "sandbox": false,
+	"default_days": 30,
+	"address_debug": false,
+	"receipt_debug": false
+}
