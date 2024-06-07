@@ -1,8 +1,8 @@
 {
-    "client_id": "",
-    "client_secret": "",
-    "refresh_token": "",
-    "realm_id": "",
+    "client_id": "your_client_id",
+    "client_secret": "your_client_secret",
+    "refresh_token": "your_refresh_token",
+    "realm_id": "your_realm_id",
     "redirect_uri": "http://localhost",
     "sandbox": false,
 	"default_days": 30,
